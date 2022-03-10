@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "218708598842",
+    "project_id": "tyba-c9f95",
+    "storage_bucket": "tyba-c9f95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218708598842:android:cb4b0e8584f5a0358f5503",
+        "android_client_info": {
+          "package_name": "com.example.tyba_provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218708598842-6cbmvp10thmh642fanp4v72dcdeehg4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiF7zcpaIaE9xNmdOir2RbDW-QefENLrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218708598842-6cbmvp10thmh642fanp4v72dcdeehg4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
